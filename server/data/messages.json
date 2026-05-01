@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1777648226745",
+    "name": "Test User",
+    "email": "test@example.com",
+    "message": "Hello from the test!",
+    "date": "2026-05-01T15:10:26.745Z",
+    "read": false
+  }
+]
